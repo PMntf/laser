@@ -6,7 +6,6 @@ L'objectif est de dénombrer le nombre de solutions valides possible.
 Une solution est un fonction qui à un miroir lui associe sa rotation, cette solution est valide si le laser atteint le capteur avec cette disposition.
 
 Pour exécuter cet algorithme il est nécessaire de compiler le fichier et de l'éxécuter par la commande ./*nom_du_fichier_* grille
-
 où grille est un fichier représentant l'entrée du problème. Il sera construit de la sorte :
 
 La première ligne est de la forme : *nombre_de_lignes* *nombre_de_colonnes* *nombre_de_miroirs*
